@@ -1,0 +1,7 @@
+name: hai
+channels:
+  - conda-forge
+dependencies:
+  - jupyter
+  - pandas
+  - plotly
