@@ -1,7 +1,11 @@
-name: hai
+name: hai-altair
 channels:
   - conda-forge
 dependencies:
   - jupyter
   - pandas
-  - plotly
+  - altair
+  - vega_datasets
+  - vega
+  - notebook
+
